@@ -1,0 +1,1 @@
+[https://httd1.medium.com/criando-bots-no-telegram-como-um-ninja-usando-telegramphp-a841bd7ea61b](https://httd1.medium.com/criando-bots-no-telegram-como-um-ninja-usando-telegramphp-a841bd7ea61b)

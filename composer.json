@@ -1,0 +1,23 @@
+{
+    "require": {
+        "httd1/telegramphp": "^1.7",
+        "php-weather/open-meteo": "^0.3.2",
+        "symfony/http-client": "^6.4",
+        "nyholm/psr7": "^1.8",
+        "psr/http-client": "^1.0",
+        "guzzlehttp/guzzle": "^7.8"
+    },
+    "autoload": {
+        "files": [
+            "includes/openmeteo/OpenMeteo.php",
+            "bot/controller/Controller.php",
+            "includes/langs/langs.php",
+            "includes/logs/Logs.php"
+        ]
+    },
+    "config": {
+        "allow-plugins": {
+            "php-http/discovery": true
+        }
+    }
+}
